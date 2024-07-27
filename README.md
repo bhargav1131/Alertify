@@ -49,3 +49,7 @@ Example
 go run main.go 10:32 Get Hydrated!
 ```
 
+## Screenshots
+![alt text](images/ss_01.png)
+![alt text](images/ss-02.png)
+
